@@ -1,31 +1,41 @@
-# KBC — van persoonlijke ervaring naar systemisch onderzoek
+# KBC: van persoonlijke casus naar systemisch onderzoek
 
-Dit project begon bij persoonlijke ervaringen met kredietverlening, het beleggingsplatform Bolero en de behandeling van privacyverzoeken bij KBC. Welke beslissingen waren genomen? Welke gegevens waren daarbij gebruikt? Om het verloop te reconstrueren, waren onder meer gespreksopnames, interne registraties en toegangslogs relevant. Veel van die informatie werd beheerd door de instelling waarvan het handelen ter discussie stond.
+> Wat gebeurt er wanneer een instelling het systeem beheert, de registraties van haar eigen handelen controleert, en de klant moet aantonen wat er is misgelopen?
 
-> Wat gebeurt er wanneer een instelling het systeem beheert, de registraties van haar eigen handelen controleert en de klant moet aantonen wat er is misgelopen?
+## De situatie
 
-## Van inzage naar verantwoording
+Een klant komt in conflict met zijn bank. Het begint bij een financieringsadvies, een gesprek met de kantoordirecteur en de afbouw van de klantrelatie. Daarnaast loopt een afzonderlijke kwestie bij het beleggingsplatform Bolero.
 
-De AVG-dossiers maken die vraag concreet. Inzage in persoonsgegevens kan zichtbaar maken welke informatie over iemand is vastgelegd, hoe die is gebruikt en hoe een beslissing of incident is afgehandeld. Als de klant zelf moet preciseren welke gesprekken, registraties of interne handelingen moeten worden opgezocht, terwijl de bank over de zoekmiddelen beschikt, kan de praktische zoek- en bewijslast bij de klant terechtkomen.
+Om te reconstrueren wat er gebeurde, vraagt de klant vanaf januari 2026 zijn persoonsgegevens op onder de AVG: gespreksopnames, contacthistoriek, notities, classificaties. Daaruit ontstaan zeven dossiers, van inzage en rectificatie tot opnames en profilering.
 
-Daaruit volgt een onderzoekshypothese over **afwenteling van verantwoordelijkheid**. Kan de manier waarop een instelling informatie beheert, incidenten classificeert en klachten afhandelt ertoe leiden dat de klant de gevolgen draagt van een proces dat hij nauwelijks kan controleren? Bij een gemeld platformincident gaat het bijvoorbeeld zowel om wat er technisch gebeurde als om de vraag of de gekozen afhandeling toeliet de melding te onderzoeken en de uitkomst te controleren.
+Het patroon dat zich aftekent: de bank beschikt over de systemen en de zoekmiddelen, maar de klant moet preciseren wat er gezocht moet worden. De registraties die het handelen van de bank zouden kunnen tonen, worden beheerd door de bank zelf. Zo kan de praktische bewijslast verschuiven naar de partij die de minste toegang heeft.
 
-## Hoe een individuele casus systemisch onderzoek wordt
+Daaruit volgt een **onderzoekshypothese**, geen conclusie: kan de manier waarop een instelling informatie beheert, incidenten classificeert en klachten afhandelt, ertoe leiden dat de klant de gevolgen draagt van een proces dat hij nauwelijks kan controleren?
 
-1. **Documenteer de gebeurtenis.** Reconstructeer de chronologie en koppel elke vaststelling aan een bron. Leg ook vast welk bewijs ontbreekt.
-2. **Formuleer een toetsbaar patroon.** Onderzoek per incident wie het proces beheerde, wie over de informatie beschikte, wie feiten moest aantonen en wie de gevolgen droeg.
-3. **Vergelijk onafhankelijk gedocumenteerde gevallen.** Zoek vergelijkbare situaties bij andere klanten, ook waar inzage of klachtbehandeling wel werkte. Toets verklaringen zoals een legitieme vertrouwelijkheidsbeperking, een operationeel probleem of een terugkerende proceskeuze.
-4. **Bepaal waar verbetering mogelijk is.** Gebruik geverifieerde bevindingen om te beoordelen welke partij een probleem kon voorkomen, uitleggen of herstellen, en welke aanpassingen de controleerbaarheid vergroten.
+**Wat vaststaat en wat niet.** De stukken komen uit één klantrelatie en zijn grotendeels door de betrokkene zelf verzameld. Een deel van de handelingen is gedocumenteerd, zoals beperkingsbeslissingen en een verstrekt overzicht dat smaller is dan wat de bank zelf beschrijft. Intentie, de rol van het geschil en een werkwijze tegenover andere klanten zijn nog niet aangetoond. Ze staan als open aannames geregistreerd.
 
-De huidige stukken komen hoofdzakelijk uit één klantrelatie. De zeven AVG-dossiers bieden verschillende invalshoeken op die relatie. Voor een uitspraak over de bredere werking van KBC is vergelijking buiten die relatie nodig. De OSCARC-methode helpt per bevinding de waarneming, norm, chronologie, handeling, gevolgen en beoordeling uit elkaar te houden.
+## De aanpak
+
+1. **Ontwarren.** Het oorspronkelijke materiaal vlecht meerdere strengen tot één verhaal. Elke streng krijgt een eigen norm, eigen bewijs en vaak een eigen forum. Vermengd verzwakken ze elkaar: een onbewezen bewering over opzet trekt een vaststaand feit mee omlaag.
+2. **Eén bevinding tegelijk, met OSCARC.** Per bevinding worden apart vastgelegd: de objectieve vaststelling, de norm, de chronologie en context, de handeling of het verzuim, de resultante en het conformiteitsoordeel. Elke stap krijgt zijn eigen bewijs. Zie [OSCARC](../knowledge-engineering-chaOS/chaOS-knowledge/OSCARC.md).
+3. **Geen stille aannames.** Wat het werk veronderstelt zonder het te kunnen aantonen, krijgt een rij in een aannameregister, met het risico als ze fout is en de manier om ze te toetsen. Wat op een open aanname rust, is hooguit voorwaardelijk. "Na" blijft "na" tot een oorzakelijk verband is aangetoond.
+4. **Eén doel per tekst.** Hetzelfde materiaal leidt tot vier afzonderlijke teksten: audit, juridische analyse, klacht bij de GBA en een publieke tekst. Elk doel heeft zijn eigen maatstaf, en geen enkele tekst leent de stelligheid van een andere.
+5. **Van casus naar systeem.** Een uitspraak over de bredere werking van KBC vraagt vergelijking met onafhankelijk gedocumenteerde gevallen, ook waar inzage of klachtbehandeling wél werkte. Alternatieve verklaringen worden getoetst: een legitieme vertrouwelijkheidsbeperking, een operationeel probleem, of een terugkerende proceskeuze.
+6. **Niets naar buiten zonder toets.** Vóór publicatie volgen een [publicatie-impactanalyse](Publicatie-impactanalyse%20%28PIA%29.md) en wederhoor. Een verzoek, klacht of publicatie vertrekt alleen na een uitdrukkelijke beslissing van de betrokkene.
 
 ## Leeswijzer
 
 | Onderdeel | Inhoud |
 |---|---|
-| [Persoonlijke casus](persoonlijk/ontward/README.md) | De kredietcasus, met een chronologie, bronnenregister, aannames en open vragen. |
-| [De bank als poortwachter van het bewijs](poortwachter-bewijs/De%20bank%20als%20poortwachter%20van%20het%20bewijs.md) | Het overkoepelende rapport over de relatie tussen persoonsgegevens, bewijs en verantwoording. |
-| [Auditrapport](poortwachter-bewijs/perspectieven/1-audit.md) | De bevindingen, hun bronverwijzingen en de vragen die aan KBC kunnen worden voorgelegd. |
-| [Zeven AVG-bundels](poortwachter-bewijs/bundles/README.md) | De dossierdocumenten over inzage, rectificatie, zoeklast, dossierinzage, opnames, privacygovernance en profilering. |
+| [Persoonlijke casus, ontward](persoonlijk/ontward/README.md) | De kredietcasus: bevindingen, chronologie, bronnen, aannames en open vragen. |
+| [De bank als poortwachter van het bewijs](poortwachter-bewijs/De%20bank%20als%20poortwachter%20van%20het%20bewijs.md) | Het oorspronkelijke overkoepelende rapport, ongewijzigd. |
+| [Ontwarring van het rapport](poortwachter-bewijs/ontwarring/README.md) | Waar het rapport sterker spreekt dan zijn bewijs, met de [aannames](poortwachter-bewijs/ontwarring/aannames.md) waarop het steunt. |
+| [Perspectieven](poortwachter-bewijs/perspectieven/1-audit.md) | De ontwarde teksten: [audit](poortwachter-bewijs/perspectieven/1-audit.md), [juridisch](poortwachter-bewijs/perspectieven/2-juridisch.md), [klacht GBA](poortwachter-bewijs/perspectieven/3-klacht-gba.md), [publiek](poortwachter-bewijs/perspectieven/4-publiek.md). |
+| [Zeven AVG-bundels](poortwachter-bewijs/bundles/README.md) | Dossierdocumenten over inzage, rectificatie, zoeklast, dossierinzage, opnames, privacygovernance en profilering. |
+| [Publicatie-impactanalyse](Publicatie-impactanalyse%20%28PIA%29.md) | Hoe vóór publicatie wordt beslist wat van publiek belang is en hoeveel identificatie nodig is. |
 
-De bewijsstukken in de AVG-bundels, waaronder e-mails met persoonsgegevens, worden lokaal bewaard en door Git genegeerd.
+## Stand van zaken
+
+- Alles is **concept**. De ontwarring is door een agent voorbereid en nog niet door een mens nagekeken.
+- In de persoonlijke casus is nog geen enkele norm in exacte vorm en versie gelezen. De conformiteitsoordelen daar staan daarom voorlopig open.
+- De bewijsstukken in de AVG-bundels bevatten persoonsgegevens. Ze worden lokaal bewaard en door Git genegeerd.
