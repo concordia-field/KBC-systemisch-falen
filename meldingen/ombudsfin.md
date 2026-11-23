@@ -97,7 +97,7 @@ Elk thema volgt het sjabloon van de methode. Een leeg register is geen fout: het
 |---|---|
 | Bron | Verwezen: BRON-09 ([F-19](../persoonlijk/ontward/register.md#spoor-4--klachten-privacy-en-klantbeeld)). Zelfde feiten als [FSMA-01 tot FSMA-03](fsma.md#2-themas). |
 | Waarneming |  |
-| Interpretatie | Apart spoor: eigen feiten, eigen norm, eigen afdeling (KBC Securities). Niet vermengen met de kredietzaak. |
+| Interpretatie | Apart spoor: eigen feiten, eigen norm, eigen afdeling (Bolero; sinds 2018 mogelijk onder KBC Bank in plaats van KBC Securities, zie [FSMA](fsma.md#1-het-forum)). Niet vermengen met de kredietzaak. |
 | Hypothese | Dat een vergoeding de kredietwaardigheid had hersteld, is een tegenfeitelijke stelling. Toetsmiddel: bedrag en timing. |
 | Bewering |  |
 | Beoordeling | Maatstaf: te bepalen |

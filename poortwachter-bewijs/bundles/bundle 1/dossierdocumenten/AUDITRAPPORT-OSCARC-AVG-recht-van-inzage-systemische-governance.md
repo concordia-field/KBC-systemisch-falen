@@ -143,7 +143,7 @@ Toetsingscriteria:
 | Stukken 1, 2, 3, 6, 7, 8, 9 en 13 | E-mailbewijs | Hoog voor bestaan, datum en inhoud van communicatie | Embedded ketens moeten per berichtniveau gelezen worden |
 | Stuk 4 | Screenshot | Middel/hoog voor zichtbaarheid op captatiedatum | Bewijst niet eerste beschikbaarstellingsdatum |
 | Stuk 5 | KBC-document/PDF | Hoog voor inhoud van geleverd overzicht | Bewijst niet welke bronnen onderzocht zijn |
-| Stuk 10 | Juridische context | Middel als interpretatiekader | Geen zelfstandig feitelijk bewijs |
+| Bijlage JT-01 (vroeger stuk 10) | Juridische context | Middel als interpretatiekader | Geen zelfstandig feitelijk bewijs |
 | Stuk 11 | Privacyverklaring KBC | Hoog als actuele KBC-verklaring | Versie dateert van 22 mei 2026, na januari/februari |
 | Stuk 12 | Thesis | Hoog voor historische daadwerkelijke technische verwerking | Systeemnamen en architectuur dateren uit 2015-2016 |
 
@@ -413,7 +413,7 @@ Gereviewde documenten:
 * `bewijsstuk_07_2026-04-23_derde-aanvraag-doorverwijzing-dataprotection-mypersonaldata.eml`
 * `bewijsstuk_08_2026-05-22_kbc-brief-aangetekend-verzonden.eml`
 * `bewijsstuk_09_2026-06-04_kbc-ontvangstbevestiging-vervolgmail.eml`
-* `bewijsstuk_10_gdpr-research-juridische-toetssteen.md`
+* `BIJLAGE JURIDISCHE TOETSSTEEN 01 - herzien.md`
 * `bewijsstuk_11_kbc-bank-privacyverklaring-nl.pdf`
 * `bewijsstuk_12_Thesis_YL_CustomerJournePredictorsForConsumerLoans_final_confid.pdf`
 * `bewijsstuk_13_2025-11-19_kbc-levering-opgenomen-telefoongesprek.eml`
@@ -449,7 +449,7 @@ Conformiteitsgradaties:
 | E-B1-07 | 7 | Data Protection-doorverwijzing |
 | E-B1-08 | 8 | Aangetekende verzending |
 | E-B1-09 | 9 | Ontvangstbevestiging vervolgcommunicatie |
-| E-B1-10 | 10 | Juridische toetssteen, niet-feitelijk bewijs |
+| E-B1-10 | JT-01 (vroeger 10) | Juridische toetssteen, niet-feitelijk bewijs |
 | E-B1-11 | 11 | KBC-beleidstaal over overzicht en aanvullende bestanden |
 | E-B1-12 | 12 | Technisch-organisatorisch bewijs van brede verwerking |
 | E-B1-13 | 13 | Concrete export en digitale levering van telefoongesprek |

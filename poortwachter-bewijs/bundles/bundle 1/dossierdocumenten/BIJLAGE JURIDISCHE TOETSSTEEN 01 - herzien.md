@@ -72,7 +72,7 @@ De ICO is een Britse toezichthouder en dus niet bindend voor Belgische instantie
 
 ## 2.5 Voorafgaand onderzoek van de betrokkene
 
-De onderzoeksnota `bewijsstuk_10_gdpr-research-juridische-toetssteen.md` wordt niet gebruikt als zelfstandige rechtsbron, maar als bewijs dat de betrokkene zijn verzoek vooraf juridisch heeft getoetst en probeerde te kaderen binnen bestaande rechtspraak en gangbare interpretaties.
+De onderzoeksnota `BIJLAGE JURIDISCHE TOETSSTEEN 01 - herzien.md` wordt niet gebruikt als zelfstandige rechtsbron, maar als bewijs dat de betrokkene zijn verzoek vooraf juridisch heeft getoetst en probeerde te kaderen binnen bestaande rechtspraak en gangbare interpretaties.
 
 De mail van 28 januari 2026 is wél een feitelijk bewijsstuk: zij toont dat de betrokkene KBC reeds tijdens de behandeling wees op precedenten en richtsnoeren.
 

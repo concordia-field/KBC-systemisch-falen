@@ -547,7 +547,7 @@ Op basis van de communicatie blijkt voorlopig het volgende:
 
 # 7. BEWIJSMATRIX
 
-Stukken 1 tot en met 9, stuk 11 en stuk 13 zijn feitelijke bewijsstukken. Stuk 10 is een juridische contextbijlage. Stuk 12 is historisch technisch-organisatorisch bewijs van daadwerkelijk uitgevoerde verwerking binnen KBC: de thesis documenteert concrete extractie, koppeling en analyse van klantgebonden gegevens uit meerdere bronnen. Stuk 12 bewijst niet op zichzelf dat elk historisch systeem in 2026 ongewijzigd bestond, maar gaat duidelijk verder dan louter theoretische systeemcapaciteit.
+Stukken 1 tot en met 9, stuk 11 en stuk 13 zijn feitelijke bewijsstukken. Bijlage JT-01 (vroeger stuk 10) is een juridische contextbijlage. Stuk 12 is historisch technisch-organisatorisch bewijs van daadwerkelijk uitgevoerde verwerking binnen KBC: de thesis documenteert concrete extractie, koppeling en analyse van klantgebonden gegevens uit meerdere bronnen. Stuk 12 bewijst niet op zichzelf dat elk historisch systeem in 2026 ongewijzigd bestond, maar gaat duidelijk verder dan louter theoretische systeemcapaciteit.
 
 | Nr. | Bewijsstuk                                      | Bestandsnaam                                                                                  | Datum                  | Bewijst vooral                                                                                             | Bewijst niet / nuance                                                                                     |
 | --- | ----------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -560,7 +560,7 @@ Stukken 1 tot en met 9, stuk 11 en stuk 13 zijn feitelijke bewijsstukken. Stuk 1
 | 7   | Data Protection-doorverwijzing                  | `bewijsstuk_07_2026-04-23_derde-aanvraag-doorverwijzing-dataprotection-mypersonaldata.eml`    | 24/04/2026             | Derde aanvraag en interne route naar mypersonaldata                                                         | Bewijst niet dat Data Protection/DPO inhoudelijk niet betrokken was                                        |
 | 8   | KBC-mail aangetekende verzending                | `bewijsstuk_08_2026-05-22_kbc-brief-aangetekend-verzonden.eml`                               | 22/05/2026             | Bevestigt verzending van een brief per aangetekend schrijven                                                | Bewijst niet de inhoud, ontvangst of reden voor die kanaalkeuze                                             |
 | 9   | KBC-ontvangstbevestiging vervolgcommunicatie    | `bewijsstuk_09_2026-06-04_kbc-ontvangstbevestiging-vervolgmail.eml`                           | 04/06/2026             | Procedurele ontvangst en opvolging                                                                          | Bevat op zichzelf geen inhoudelijk antwoord op de openstaande inzagevragen                                 |
-| 10  | Juridische contextbijlage / toetssteen          | `bewijsstuk_10_gdpr-research-juridische-toetssteen.md`                                       | 13/06/2026             | Interpretatiekader voor artikel 15 AVG                                                                      | Geen zelfstandig feitelijk bewijs tegen KBC                                                               |
+| JT-01 | Juridische contextbijlage / toetssteen          | `BIJLAGE JURIDISCHE TOETSSTEEN 01 - herzien.md`                                       | 13/06/2026             | Interpretatiekader voor artikel 15 AVG                                                                      | Geen zelfstandig feitelijk bewijs tegen KBC                                                               |
 | 11  | KBC privacyverklaring                           | `bewijsstuk_11_kbc-bank-privacyverklaring-nl.pdf`                                             | versie 22/05/2026      | KBC bevestigt verwerking van contactoverzichten, contactverslagen, opnames, simulatiegegevens, online gedrag, profielen, CRM en aanvullend opvraagbare bestanden | De precieze inhoud en bewaartoestand moeten nog per individuele registratie worden verantwoord             |
 | 12  | Thesis over customer journeys bij KBC           | `bewijsstuk_12_Thesis_YL_CustomerJournePredictorsForConsumerLoans_final_confid.pdf`           | academiejaar 2015-2016 | Bewijst daadwerkelijke extractie, koppeling en analyse van klant-ID's, tijdstempels, calls, e-mails, afspraken, logs, simulaties en kredietprocessen | Bewijst niet dat ieder systeem in 2026 dezelfde naam of architectuur behield                               |
 | 13  | E-mail met geleverde gespreksopname             | `bewijsstuk_13_2025-11-19_kbc-levering-opgenomen-telefoongesprek.eml`                         | 19/11/2025             | Rechtstreekse levering door KBC van `Call_28102025.m4a` in een versleutelde ZIP; bewijst lokalisatie, export en digitale verstrekking van een concrete opname | Bewijst één concreet gesprek en niet hoeveel andere gesprekken werden opgenomen of bewaard                 |
@@ -888,10 +888,10 @@ Bestandsnaam: `bewijsstuk_09_2026-06-04_kbc-ontvangstbevestiging-vervolgmail.eml
 Datum: 4 juni 2026
 Relevantie: procedurele ontvangst en verdere opvolging; geen zelfstandig inhoudelijk antwoord.
 
-## Stuk 10
+## Bijlage JT-01 (vroeger stuk 10)
 
 Juridische contextbijlage / toetssteen
-Bestandsnaam: `bewijsstuk_10_gdpr-research-juridische-toetssteen.md`
+Bestandsnaam: `BIJLAGE JURIDISCHE TOETSSTEEN 01 - herzien.md`
 Datum: 13 juni 2026
 Relevantie: interpretatiekader voor art. 15 AVG, proportionaliteit en positie van minder ingrijpende alternatieven.
 

@@ -38,7 +38,7 @@ De juridische logica is: feit → norm → tijdlijn → handelen → resultaat �
 | 7 | `bewijsstuk_07_2026-04-23_derde-aanvraag-doorverwijzing-dataprotection-mypersonaldata.eml` | Derde aanvraag en interne doorverwijzing |
 | 8 | `bewijsstuk_08_2026-05-22_kbc-brief-aangetekend-verzonden.eml` | Bevestiging aangetekende verzending |
 | 9 | `bewijsstuk_09_2026-06-04_kbc-ontvangstbevestiging-vervolgmail.eml` | Procedurele ontvangstbevestiging vervolgcommunicatie |
-| 10 | `bewijsstuk_10_gdpr-research-juridische-toetssteen.md` | Juridische contextbijlage, geen zelfstandig feitelijk bewijs |
+| JT-01 (vroeger 10) | `BIJLAGE JURIDISCHE TOETSSTEEN 01 - herzien.md` | Juridische contextbijlage, geen zelfstandig feitelijk bewijs |
 | 11 | `bewijsstuk_11_kbc-bank-privacyverklaring-nl.pdf` | KBC-privacyverklaring, versie 22 mei 2026 |
 | 12 | `bewijsstuk_12_Thesis_YL_CustomerJournePredictorsForConsumerLoans_final_confid.pdf` | Technisch-organisatorisch bewijs van werkelijke gegevensverwerking |
 | 13 | `bewijsstuk_13_2025-11-19_kbc-levering-opgenomen-telefoongesprek.eml` | Eerdere digitale levering van opgenomen telefoongesprek |

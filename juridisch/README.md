@@ -11,6 +11,7 @@ Volwassenheid: `geraamte`. Opgesteld door een agent, 2026-11-23. Nog door geen m
 | [2-juridisch.md](../poortwachter-bewijs/perspectieven/2-juridisch.md) | Acht AVG-claims, per element vaststaand of door KBC aan te tonen, en de gevraagde maatregelen onder art. 871 en 877 Ger.W. |
 | [persoonlijk/ontward](../persoonlijk/ontward/README.md) | De kredietcasus: 20 bevindingen, chronologie, aannames en open vragen. |
 | [3-klacht-gba.md](../poortwachter-bewijs/perspectieven/3-klacht-gba.md) | Concept van de klacht bij de GBA. |
+| [Verzekering beroepsaansprakelijkheid](../Verzekering%20beroepsaansprakelijkheid.md) | Publieke samenvatting van de polis. De polisdocumenten en de volledige intake staan lokaal in `bewijsstukken/` (niet in Git). |
 
 ## Mogelijke sporen
 
@@ -32,6 +33,8 @@ Elk spoor volgt de [zeven registers](../methode/zeven-registers.md). De beoordel
 3. Raakt een melding bij de FSMA of de NBB, of een publicatie, de procespositie? Zie [meldingen](../meldingen/README.md#volgorde-en-samenloop).
 4. Handelde de betrokkene bij het commercieel krediet als consument of als ondernemer, en wat betekent dat voor de toepasselijke regels?
 5. Onder welke voorwaarden kan de vertrouwelijke thesis (S23) worden gebruikt?
+6. Dekt de [polis beroepsaansprakelijkheid](../Verzekering%20beroepsaansprakelijkheid.md) een vordering van KBC Bank tegen het onderzoek, en neemt de verzekeraar dan de verdediging op zich? Daarvoor zijn de algemene voorwaarden (versie 14 maart 2015) nodig.
+7. Moet de verzekeraar nu al op de hoogte worden gebracht van het lopende geschil (mededelingsplicht), en hoe weegt dat de verzekeraar binnen dezelfde groep als de mogelijke eiser zit?
 
 ## Regels voor deze map
 

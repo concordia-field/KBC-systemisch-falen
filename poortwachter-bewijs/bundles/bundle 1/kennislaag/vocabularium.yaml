@@ -1,0 +1,89 @@
+# Vocabularium voor de kennislaag van bundel 1.
+# Dit is de enige plaats waar deze waarden worden gedeclareerd.
+# Het woordenboek (woordenboek.md) legt de termen in één zin uit; het herhaalt deze lijsten niet.
+# Engelse term tussen haakjes = oorspronkelijke notatie van de kennisengineering-skill.
+
+status:              # welk soort waarheid een uitspraak bevat; kies de zwakste die eerlijk is
+  - gedefinieerd     # defined
+  - vastgesteld      # established
+  - voorwaardelijk   # conditional
+  - open             # open
+  - betwist          # disputed
+  - weerlegd         # refuted
+  - experimenteel    # experimental
+  - heuristisch      # heuristic
+  - interpretatief   # interpretive
+  - toegeschreven    # attributed
+
+maturiteit:          # hoe ver een pagina ontwikkeld is; nooit een vervanging voor status
+  - kiem             # seed
+  - ontwerp          # draft
+  - gestructureerd   # structured
+  - nagekeken        # reviewed
+  - canoniek         # canonical
+
+epistemische_basis:  # hoe iets geweten wordt
+  - waargenomen      # observed: rechtstreeks in de bron nagelezen
+  - beweerd          # claimed: een partij zegt het
+  - gerapporteerd    # reported: een dossierdocument zegt het, niet zelf in de bron nagekeken
+  - gemeten          # measured
+  - afgeleid         # derived: berekend uit waargenomen gegevens (bv. UTC omgerekend naar lokale tijd)
+  - geconcludeerd    # inferred
+  - samengesteld     # synthesized
+  - geverifieerd     # verified: door een tweede, onafhankelijke controle bevestigd
+
+afwezigheid:         # een waarde, nooit een schrapping; stilte betekent nooit "geen"
+  - onbekend                 # unknown
+  - niet-in-bron             # not-in-source
+  - niet-in-bundel           # de bron bestaat volgens een document, maar zit niet in bundel 1
+  - nog-niet-uitgewerkt      # not-yet-developed
+  - niet-nagekeken           # de bron is aanwezig, maar op dit punt niet gelezen
+  - nog-niet-toegevoegd      # een bestand dat de betrokkene nog aanlevert
+  - "niet-van-toepassing: <reden>"
+
+datumsoort:          # elke datum krijgt een soort; twee datums van een andere soort zijn geen tegenstrijdigheid
+  - gebeurtenisdatum         # wanneer het feit zelf plaatsvond (bv. een telefoongesprek)
+  - documentdatum            # de datum die het document zelf draagt (bv. in de brief)
+  - versiedatum              # de versie van een doorlopend document (bv. "Versie 22-05-2026")
+  - ingangsdatum             # vanaf wanneer een versie geldt
+  - verzenddatum             # wanneer een bericht werd verstuurd (Date-header of "Verzonden:")
+  - ontvangstdatum           # wanneer een bericht werd ontvangen (Received-header)
+  - beschikbaarstellingsdatum  # wanneer een document in een kanaal verscheen (bv. Doccle)
+  - exportdatum              # het bericht waarmee een e-mailketen werd bewaard (topbericht van de .eml)
+  - vastleggingsdatum        # wanneer de betrokkene het stuk bewaarde (download, schermafbeelding)
+  - situatiedatum            # peildatum binnen een gegeven ("Situatie op ...")
+  - opmaakdatum              # wanneer een dossierdocument werd opgesteld
+  - herzieningsdatum         # laatste inhoudelijke herziening van een dossierdocument
+  - bestandsnaamdatum        # datum in een genormaliseerde bestandsnaam; heeft geen eigen betekenis tot gedeclareerd is welke soort ze volgt
+
+bronrol:             # wat een bron in de bundel mag dragen
+  - feitelijk-bewijs         # toont een handeling of mededeling in het dossier
+  - procedureel-bewijs       # toont verloop (ontvangst, verzending), niet de inhoudelijke beoordeling
+  - contextbron              # publiek of historisch kader; bewijst geen handeling in het dossier
+  - juridische-context       # interpretatiekader; geen zelfstandig feitelijk bewijs
+  - uitvoer-betrokkene       # stuk dat de betrokkene zelf extern indiende
+  - oorspronkelijk-bestand   # bronbestand vóór normalisatie (legacy)
+
+relatie:             # categorie/band; enkel voorwaarts vastgelegd
+  - bewijs/ondersteunt
+  - bewijs/weerspreekt
+  - bron/bevat-ingebed       # een eerder bericht zit geciteerd in deze keten
+  - bron/identiek-aan        # byte-identiek (zelfde md5)
+  - bron/versie-van
+  - bron/kopie-van
+  - verwijzing/genummerd-als # zelfde bron, andere nummering in een ander document
+  - document/behandelt       # een dossierdocument behandelt een feit of bron
+
+uitvoerstatus:       # waar een stuk in output/ staat; zie output/index.md
+  - in-voorbereiding
+  - klaar-voor-beslissing    # wacht op een uitdrukkelijke beslissing van de betrokkene
+  - ingediend
+  - ontvangst-bevestigd
+  - in-behandeling
+  - afgesloten
+  - ingetrokken
+
+betrouwbaarheid:     # voor relaties en koppelingen waar onzekerheid is
+  - zeker                    # zelfde datum en zelfde stuk, of letterlijk dezelfde titel
+  - waarschijnlijk           # overeenkomst in onderwerp en stuk, niet in titel
+  - onzeker                  # alleen thematische overeenkomst

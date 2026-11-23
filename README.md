@@ -21,7 +21,7 @@ Daaruit volgt een **onderzoekshypothese**, geen conclusie: kan de manier waarop 
 3. **Geen stille aannames.** Wat het werk veronderstelt zonder het te kunnen aantonen, krijgt een rij in een aannameregister, met het risico als ze fout is en de manier om ze te toetsen. Wat op een open aanname rust, is hooguit voorwaardelijk. "Na" blijft "na" tot een oorzakelijk verband is aangetoond.
 4. **Eén doel per tekst.** Hetzelfde materiaal leidt tot vier afzonderlijke teksten: audit, juridische analyse, klacht bij de GBA en een publieke tekst. Elk doel heeft zijn eigen maatstaf, en geen enkele tekst leent de stelligheid van een andere.
 5. **Van casus naar systeem.** Een uitspraak over de bredere werking van KBC vraagt vergelijking met onafhankelijk gedocumenteerde gevallen, ook waar inzage of klachtbehandeling wél werkte. Alternatieve verklaringen worden getoetst: een legitieme vertrouwelijkheidsbeperking, een operationeel probleem, of een terugkerende proceskeuze.
-6. **Niets naar buiten zonder toets.** Vóór publicatie volgen een [publicatie-impactanalyse](Publicatie-impactanalyse%20%28PIA%29.md) en wederhoor. Een verzoek, klacht of publicatie vertrekt alleen na een uitdrukkelijke beslissing van de betrokkene.
+6. **Niets naar buiten zonder toets.** Vóór publicatie volgen een [publicatie-impactanalyse](Publicatie-impactanalyse%20%28PIA%29.md) en wederhoor. Een verzoek, klacht of publicatie vertrekt alleen na een uitdrukkelijke beslissing van de betrokkene. Het werk gebeurt binnen een beroepsactiviteit waarvoor een [verzekering beroepsaansprakelijkheid](Verzekering%20beroepsaansprakelijkheid.md) loopt.
 
 ## Leeswijzer
 
@@ -33,10 +33,14 @@ Daaruit volgt een **onderzoekshypothese**, geen conclusie: kan de manier waarop 
 | [Perspectieven](poortwachter-bewijs/perspectieven/1-audit.md) | De ontwarde teksten: [audit](poortwachter-bewijs/perspectieven/1-audit.md), [juridisch](poortwachter-bewijs/perspectieven/2-juridisch.md), [klacht GBA](poortwachter-bewijs/perspectieven/3-klacht-gba.md), [publiek](poortwachter-bewijs/perspectieven/4-publiek.md). |
 | [Zeven AVG-bundels](poortwachter-bewijs/bundles/README.md) | Dossierdocumenten over inzage, rectificatie, zoeklast, dossierinzage, opnames, privacygovernance en profilering. |
 | [Publicatie-impactanalyse](Publicatie-impactanalyse%20%28PIA%29.md) | Hoe vóór publicatie wordt beslist wat van publiek belang is en hoeveel identificatie nodig is. |
+| [Verzekering beroepsaansprakelijkheid](Verzekering%20beroepsaansprakelijkheid.md) | De tweede waarborg naast de PIA: het onderzoek valt onder de verzekerde beroepsactiviteiten van een polis beroepsaansprakelijkheid met rechtsbijstand. Dekking per vordering beslist de verzekeraar. |
 | [Methode: zeven registers](methode/zeven-registers.md) | Van bron tot beslissing: bron, waarneming, interpretatie, hypothese, bewering, beoordeling, beslissing. De ruggengraat van elk rapport hieronder. |
+| [Skill: kennisengineering](.claude/skills/kennisengineering/SKILL.md) | Hoe bronnen worden omgezet in een kennisbank die herleidbaar blijft tot haar bronnen: knopen, status, afwezigheidswaarden, intake en menselijke goedkeuring. Ook bruikbaar als Claude Code-skill. |
 | [Meldingen](meldingen/README.md) | Vier rapporten in opbouw: [FSMA](meldingen/fsma.md), [NBB](meldingen/nbb.md), [FOD Economie](meldingen/fod-economie.md), [Ombudsfin](meldingen/ombudsfin.md). |
 | [Media](media/README.md) | Materiaal waarmee journalisten zelf kunnen nagaan wat vaststaat. |
 | [Juridisch](juridisch/README.md) | Sporen, bewijsmaatregelen en vragen voor de advocaat. |
+| [Publieke signalen](publieke-signalen/README.md) | Open register van berichtgeving en publieke beslissingen over KBC, per thema, met status en herkomst. Iedereen kan aanvullen. |
+| Inbox (lokaal, `inbox/`) | Nieuw materiaal vóór de intake: aangeleverde artikels, screenshots, ruwe zoekresultaten. Wordt niet gepubliceerd. Wat de intake doorstaat, komt in het register of als bron in de rapporten. |
 
 ## Drie uitgangen, één basis
 

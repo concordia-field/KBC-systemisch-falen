@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| Rol | Toezicht op de gedragsregels van financiële instellingen tegenover hun cliënten, waaronder de MiFID-regels voor beleggingsdiensten. Bolero is een platform van KBC Securities NV. |
+| Rol | Toezicht op de gedragsregels van financiële instellingen tegenover hun cliënten, waaronder de MiFID-regels voor beleggingsdiensten. Bolero was een platform van KBC Securities NV; volgens [Moneytalk](https://moneytalk.knack.be/geld-en-beurs/beleggen/bolero-wordt-geintegreerd-binnen-kbc-bank/article-normal-932429.html) ging de retailbrokerage in 2018 over naar KBC Bank NV. Te verifiëren in de voorwaarden die golden op de datum van de feiten: dat bepaalt de tegenpartij. |
 | Doet niet | Beslecht doorgaans geen individuele geschillen en kent geen schadevergoeding toe; verwijst daarvoor naar Ombudsfin of de rechter. |
 | Beroep | Gemeld als beroep bij het Marktenhof. Te verifiëren: dat beroep staat open tegen beslissingen van de FSMA; of een melder zo'n beslissing krijgt, is niet zeker. |
 | Voorwaarden en samenloop | Een melding kan los van een Ombudsfin-dossier of een rechtszaak. Afstemmen met [OMB-06](ombudsfin.md#omb-06--problemen-met-bolero-voor-zover-individueel-geschil). |
