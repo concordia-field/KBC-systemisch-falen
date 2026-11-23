@@ -188,7 +188,7 @@ Management response: niet ontvangen.
 Deze punten bepalen de feitelijke juistheid van het rapport. Ze moeten tegen de originele stukken zijn gecontroleerd voordat het rapport wordt verstuurd.
 
 1. **Ingeroepen gronden (B1.2).** Dit rapport vermeldt alleen wat de bevinding zelf documenteert: "bescherming van medewerkers en rechten van derden". Het oorspronkelijke rapport vermeldt ook "vertrouwelijkheid" en "bedrijfsgeheimen". Neem die woorden alleen op als ze letterlijk in S05 of een ander KBC-antwoord staan, en citeer dan de passage.
-2. **Datum van S10.** Controleer of de opname van het gesprek met de directeur 12 februari 2026 is (zoals de transcriptie) en niet 23 januari 2026 (zoals dossier 5).
+2. **Datum van S10.** Controleer of de opname van het gesprek met de directeur 12 februari 2026 is (zoals de transcriptie) en niet 23 januari 2026 (zoals dossier 5). Aanwijzing voor 23 januari: de lokale opname `Bewijsstuk_01_20260123_JD.wav` (bundel 5) duurt 26:05, de laatste tijdcode in de transcriptie is 25:43, en in het gesprek valt "we zijn nu bijna eind januari". Klopt 23 januari, dan vervalt de correctie onder B5 en moeten de data in B5.1, B5.2, S10, de chronologie, [3-klacht-gba.md](3-klacht-gba.md) en [4-publiek.md](4-publiek.md) mee. Leg de audio naast de transcriptie voordat iets wordt aangepast.
 3. **Versie van S22.** In dossiers 4 en 7 draagt het bestand de datum 2026-01-30, terwijl het rapport de versie van 22 mei 2026 citeert. Leg vast welke versie elk citaat gebruikt.
 4. **Beëindiging van de klantrelatie (V7).** Voeg het stuk toe dat de beëindiging en haar datum aantoont.
 5. **Private-bankingverzoeken (B7.3).** Voeg de stukken van beide verzoeken toe, met hun volledige datum.

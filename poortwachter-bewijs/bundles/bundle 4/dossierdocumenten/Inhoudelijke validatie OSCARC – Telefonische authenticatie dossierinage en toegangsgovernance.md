@@ -51,9 +51,9 @@ De bundel maakt drie hoofdlijnen:
 
 | Chat-element | Status | Validatienota |
 | --- | --- | --- |
-| Kredietdossier, volmacht, afhankelijkheid tussen kredieten | Deels opgepikt | De brede krediet- en volmachtcontext uit [ChatGPT2 user](/Users/yveslangeraert/Downloads/Legal/KBC/GDPR/chats/normalized/ChatGPT2/user.md#L19) is strategisch relevant, maar hoort inhoudelijk niet centraal in bundel 4. Bundel 4 gebruikt die lijn slechts als context voor dossiergebonden toegang. |
-| "Zoals bevestigd op 28 februari" full financial situation | Deels opgepikt | De stelling uit [ChatGPT2 assistant](/Users/yveslangeraert/Downloads/Legal/KBC/GDPR/chats/normalized/ChatGPT2/assistant.md#L154) dat KBC Live op 28 februari bevestigde dat de volledige financiële situatie meeweegt, ondersteunt de band met dossiercontext. Bundel 4 vertaalt dat correct naar een vraag over beperkte dossierraadpleging, maar zou deze passage nog explicieter kunnen verbinden aan het specifieke gesprek. |
-| Security incident / beschuldiging rond meeting access | Bewust buiten scope | Dit element uit [ChatGPT2 user](/Users/yveslangeraert/Downloads/Legal/KBC/GDPR/chats/normalized/ChatGPT2/user.md#L25) is relevant voor de algemene vertrouwensbreuk, maar hoort niet thuis als hoofdspoor in bundel 4. De huidige uitsluiting is strategisch juist. |
+| Kredietdossier, volmacht, afhankelijkheid tussen kredieten | Deels opgepikt | De brede krediet- en volmachtcontext uit ChatGPT2 user (lokaal chatlog, r. 19) is strategisch relevant, maar hoort inhoudelijk niet centraal in bundel 4. Bundel 4 gebruikt die lijn slechts als context voor dossiergebonden toegang. |
+| "Zoals bevestigd op 28 februari" full financial situation | Deels opgepikt | De stelling uit ChatGPT2 assistant (lokaal chatlog, r. 154) dat KBC Live op 28 februari bevestigde dat de volledige financiële situatie meeweegt, ondersteunt de band met dossiercontext. Bundel 4 vertaalt dat correct naar een vraag over beperkte dossierraadpleging, maar zou deze passage nog explicieter kunnen verbinden aan het specifieke gesprek. |
+| Security incident / beschuldiging rond meeting access | Bewust buiten scope | Dit element uit ChatGPT2 user (lokaal chatlog, r. 25) is relevant voor de algemene vertrouwensbreuk, maar hoort niet thuis als hoofdspoor in bundel 4. De huidige uitsluiting is strategisch juist. |
 | "Ik lees hier dat ik verder geen informatie mag geven" | Opgepikt | Dit is inhoudelijk goed opgenomen via het 28-februari-spoor. Wel blijft het een audio-interpretatie zonder transcript; de formulering in de bundel is dus terecht voorzichtig. |
 | Identificatie via mobiel nummer | Opgepikt | Deze lijn is centraal en correct terug te vinden in de bundel. Ze blijft wel beperkt tot een geïdentificeerde route, niet tot een bewezen volledig log- of autorisatiepad. |
 | Eerdere contacten met Live en kantoor | Opgepikt | Goed verwerkt als indicatie van contacthistoriek en contextuele kennis. De bundel trekt hier nog geen te harde conclusie uit, wat inhoudelijk juist is. |
@@ -177,10 +177,10 @@ Dat is de strategische hoofdvraag waarop bundel 4 zich moet blijven concentreren
 
 | Element | Bron | Relevantie | Aanbevolen verwerking |
 | --- | --- | --- | --- |
-| De volledige krediet- en volmachtstructuur werd als één samenhangend dossier beleefd | [ChatGPT2 user](/Users/yveslangeraert/Downloads/Legal/KBC/GDPR/chats/normalized/ChatGPT2/user.md#L19) | Sterk contextueel, maar niet kernachtig voor bundel 4 | Buiten scope houden, eventueel opnemen in overkoepelende contextnota |
-| KBC Live bevestigde op 28 februari dat de volledige financiële situatie wordt meegenomen | [ChatGPT2 assistant](/Users/yveslangeraert/Downloads/Legal/KBC/GDPR/chats/normalized/ChatGPT2/assistant.md#L154) | Versterkt de gedachte dat het gesprek dossiergebonden was | In bundel 4 subtieler en explicieter koppelen aan de dossierinagevraag |
-| De advocaat waarschuwde voor nood aan concrete data en bewijsstukken | [ChatGPT2 assistant](/Users/yveslangeraert/Downloads/Legal/KBC/GDPR/chats/normalized/ChatGPT2/assistant.md#L408) en omliggende context | Strategische reminder voor bewijsdiscipline | Verwerken als validatieprincipe, niet als inhoudelijk bewijs |
-| KBC zou eerder telefoongesprekken opnemen voor bewijsdoeleinden | [ChatGPT2 user](/Users/yveslangeraert/Downloads/Legal/KBC/GDPR/chats/normalized/ChatGPT2/user.md#L35) | Relevant, maar primair bundel 5 | Buiten scope voor bundel 4 houden |
+| De volledige krediet- en volmachtstructuur werd als één samenhangend dossier beleefd | ChatGPT2 user (lokaal chatlog, r. 19) | Sterk contextueel, maar niet kernachtig voor bundel 4 | Buiten scope houden, eventueel opnemen in overkoepelende contextnota |
+| KBC Live bevestigde op 28 februari dat de volledige financiële situatie wordt meegenomen | ChatGPT2 assistant (lokaal chatlog, r. 154) | Versterkt de gedachte dat het gesprek dossiergebonden was | In bundel 4 subtieler en explicieter koppelen aan de dossierinagevraag |
+| De advocaat waarschuwde voor nood aan concrete data en bewijsstukken | ChatGPT2 assistant (lokaal chatlog, r. 408) en omliggende context | Strategische reminder voor bewijsdiscipline | Verwerken als validatieprincipe, niet als inhoudelijk bewijs |
+| KBC zou eerder telefoongesprekken opnemen voor bewijsdoeleinden | ChatGPT2 user (lokaal chatlog, r. 35) | Relevant, maar primair bundel 5 | Buiten scope voor bundel 4 houden |
 
 ### 6.2 Wat de huidige bundle nog zou kunnen winnen
 

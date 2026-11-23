@@ -1,6 +1,6 @@
-# Bundle 4
+# Bundel 4
 
-[Alle bundels](../README.md) · [Bewijsstukken](bewijsstukken/) · [Dossierdocumenten](dossierdocumenten/)
+[Alle bundels](../README.md) · Bewijsstukken (lokaal) · [Dossierdocumenten](dossierdocumenten/)
 
 Deze bundel verzamelt de relevante bewijsstukken voor contacthistoriek, security/privacy-communicatie en de KBC-privacyverklaring in een genormaliseerde set.
 

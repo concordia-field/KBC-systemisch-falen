@@ -1,6 +1,6 @@
-# Bundle 5
+# Bundel 5
 
-[Alle bundels](../README.md) · [Bewijsstukken](bewijsstukken/) · [Dossierdocumenten](dossierdocumenten/)
+[Alle bundels](../README.md) · Bewijsstukken (lokaal) · [Dossierdocumenten](dossierdocumenten/)
 
 Deze bundel verzamelt de relevante bewijsstukken voor gespreksopnames, informatieplicht, doelbinding en opnamegovernance in een genormaliseerde set.
 

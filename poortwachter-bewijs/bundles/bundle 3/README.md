@@ -1,6 +1,6 @@
 # Bundel 3
 
-[Alle bundels](../README.md) · [Bewijsstukken](bewijsstukken/) · [Dossierdocumenten](dossierdocumenten/)
+[Alle bundels](../README.md) · Bewijsstukken (lokaal) · [Dossierdocumenten](dossierdocumenten/)
 
 Deze bundel verzamelt de bewijsstukken rond contacthistoriek, zoeklast, contactcapaciteit en controleerbaarheid van dossierinzage.
 

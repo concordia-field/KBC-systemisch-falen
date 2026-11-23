@@ -31,8 +31,8 @@ Bewijsstukken:
 
 Chat/context:
 
-* `/Users/yveslangeraert/Downloads/chat-avg.txt`
-* `/Users/yveslangeraert/Downloads/AVG-KBC.txt`
+* `chat-avg.txt` (lokaal chatlog)
+* `AVG-KBC.txt` (lokaal chatlog)
 * relevante passages uit `chats/ChatGPT1`, `chats/ChatGPT3`, `chats/ChatGPT4`, `chats/ChatGPT5`, `chats/ChatGPT6`, `chats/ChatGPT9`, `chats/ChatGPT12`
 
 ---

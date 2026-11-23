@@ -1,10 +1,10 @@
-# Bundle 1
+# Bundel 1
 
-[Alle bundels](../README.md) · [Bewijsstukken](bewijsstukken/) · [Dossierdocumenten](dossierdocumenten/)
+[Alle bundels](../README.md) · Bewijsstukken (lokaal) · [Dossierdocumenten](dossierdocumenten/)
 
-This folder contains the requested evidence bundle with normalized filenames.
+Deze bundel bevat de stukken over het recht van inzage, met genormaliseerde bestandsnamen.
 
-## Included
+## Inhoud
 
 - [DOSSIEROVERZICHT-Recht van inzage.md](dossierdocumenten/DOSSIEROVERZICHT-Recht%20van%20inzage.md)
 - [JURIDISCHE-NOTA-OSCARC-Recht van inzage.md](dossierdocumenten/JURIDISCHE-NOTA-OSCARC-Recht%20van%20inzage.md)
@@ -26,14 +26,14 @@ This folder contains the requested evidence bundle with normalized filenames.
 - [bewijsstuk_12_Thesis_YL_CustomerJournePredictorsForConsumerLoans_final_confid.pdf](bewijsstukken/bewijsstuk_12_Thesis_YL_CustomerJournePredictorsForConsumerLoans_final_confid.pdf)
 - [bewijsstuk_13_2025-11-19_kbc-levering-opgenomen-telefoongesprek.eml](bewijsstukken/bewijsstuk_13_2025-11-19_kbc-levering-opgenomen-telefoongesprek.eml)
 
-## Classification notes
+## Classificatienotities
 
-- Evidence item 7 has a sender `Date` header of 24 April 2026. Its normalized filename reflects the 23 April timestamp visible in an American receipt header.
-- Evidence item 10 is legal context, not independent factual evidence.
-- Evidence item 5 is dated 29 January 2026 inside the PDF; the document environment shows 30 January 2026.
-- Evidence item 12 documents actual extraction, linkage, and analysis of customer-linked data at KBC during academic year 2015-2016. Its system names and architecture are historical, while items 5 and 11 connect the relevant data categories to the current dossier.
-- Evidence item 13 is the original email from `mypersonaldata@kbc.be` dated 19 November 2025. It contains `ZIP_Call_28102025.zip`, which contains the encrypted audio file `Call_28102025.m4a`. It proves delivery through email, not through Secure4U.
+- Bewijsstuk 7 heeft een `Date`-header van de afzender van 24 april 2026. De genormaliseerde bestandsnaam volgt het tijdstempel van 23 april in een Amerikaanse ontvangstheader.
+- Bewijsstuk 10 is juridische context, geen zelfstandig feitelijk bewijs.
+- Bewijsstuk 5 draagt in de pdf de datum 29 januari 2026; de documentomgeving toont 30 januari 2026.
+- Bewijsstuk 12 documenteert de daadwerkelijke extractie, koppeling en analyse van klantgebonden gegevens bij KBC in academiejaar 2015–2016. De systeemnamen en architectuur zijn historisch; bewijsstukken 5 en 11 verbinden de relevante gegevenscategorieën met het huidige dossier.
+- Bewijsstuk 13 is de originele e-mail van `mypersonaldata@kbc.be` van 19 november 2025. Ze bevat `ZIP_Call_28102025.zip`, met daarin het versleutelde audiobestand `Call_28102025.m4a`. Ze bewijst levering per e-mail, niet via Secure4U.
 
-## Legacy
+## Oorspronkelijke bestandsnamen
 
-- [legacy/](bewijsstukken/legacy) keeps the original source filenames that were copied into the bundle before normalization.
+- [legacy/](bewijsstukken/legacy) bevat de oorspronkelijke bronbestandsnamen, zoals ze vóór de normalisatie in de bundel werden gekopieerd.

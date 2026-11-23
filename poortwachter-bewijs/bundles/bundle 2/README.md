@@ -1,6 +1,6 @@
-# Bundle 2
+# Bundel 2
 
-[Alle bundels](../README.md) · [Bewijsstukken](bewijsstukken/) · [Dossierdocumenten](dossierdocumenten/)
+[Alle bundels](../README.md) · Bewijsstukken (lokaal) · [Dossierdocumenten](dossierdocumenten/)
 
 Deze bundel bevat de e-mailstukken rond foutieve persoonsgegevens, rectificatie, opvolging, escalatie en de latere telefoonopvolging.
 

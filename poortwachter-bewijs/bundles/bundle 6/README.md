@@ -1,6 +1,6 @@
-# Bundle 6
+# Bundel 6
 
-[Alle bundels](../README.md) · [Bewijsstukken](bewijsstukken/) · [Dossierdocumenten](dossierdocumenten/)
+[Alle bundels](../README.md) · Bewijsstukken (lokaal) · [Dossierdocumenten](dossierdocumenten/)
 
 Deze bundel verzamelt de relevante bewijsstukken voor privacygovernance, onafhankelijke beoordeling en incidenttriage in een genormaliseerde set.
 

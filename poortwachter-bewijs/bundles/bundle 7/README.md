@@ -1,6 +1,6 @@
-# Bundle 7
+# Bundel 7
 
-[Alle bundels](../README.md) · [Bewijsstukken](bewijsstukken/) · [Dossierdocumenten](dossierdocumenten/)
+[Alle bundels](../README.md) · Bewijsstukken (lokaal) · [Dossierdocumenten](dossierdocumenten/)
 
 Deze bundel volgt het dossieroverzicht als leidraad en bundelt bewijs rond vier inhoudelijke sporen:
 
