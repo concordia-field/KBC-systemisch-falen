@@ -34,6 +34,7 @@ Daaruit volgt een **onderzoekshypothese**, geen conclusie: kan de manier waarop 
 | [Zeven AVG-bundels](poortwachter-bewijs/bundles/README.md) | Dossierdocumenten over inzage, rectificatie, zoeklast, dossierinzage, opnames, privacygovernance en profilering. |
 | [Publicatie-impactanalyse](Publicatie-impactanalyse%20%28PIA%29.md) | Hoe vóór publicatie wordt beslist wat van publiek belang is en hoeveel identificatie nodig is. |
 | [Verzekering beroepsaansprakelijkheid](Verzekering%20beroepsaansprakelijkheid.md) | De tweede waarborg naast de PIA: het onderzoek valt onder de verzekerde beroepsactiviteiten van een polis beroepsaansprakelijkheid met rechtsbijstand. Dekking per vordering beslist de verzekeraar. |
+| [Rapportenboom](boom.md) | Van elk rapport naar thema, bevinding, feit in een bundel en bron; placeholders voor wat nog niet uitgewerkt is, en de knopen die de boom zichtbaar maakt. |
 | [Methode: zeven registers](methode/zeven-registers.md) | Van bron tot beslissing: bron, waarneming, interpretatie, hypothese, bewering, beoordeling, beslissing. De ruggengraat van elk rapport hieronder. |
 | [Skill: kennisengineering](.claude/skills/kennisengineering/SKILL.md) | Hoe bronnen worden omgezet in een kennisbank die herleidbaar blijft tot haar bronnen: knopen, status, afwezigheidswaarden, intake en menselijke goedkeuring. Ook bruikbaar als Claude Code-skill. |
 | [Meldingen](meldingen/README.md) | Vier rapporten in opbouw: [FSMA](meldingen/fsma.md), [NBB](meldingen/nbb.md), [FOD Economie](meldingen/fod-economie.md), [Ombudsfin](meldingen/ombudsfin.md). |
